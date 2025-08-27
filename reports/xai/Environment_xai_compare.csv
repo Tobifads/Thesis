@@ -1,0 +1,3 @@
+Group,Method,Stability_Jaccard,Robustness_MAE_Δcontrib,Simplicity_avg_nonzero_feats,Efficiency_time_s,Efficiency_mem_bytes,Fidelity_ΔRMSE_after_drop,Fidelity_ΔR2_after_drop,Dropped_feats_for_ROAR
+Environment,SHAP,0.7168421052631578,0.10994018866641117,82.01052631578948,6.205677032470703,14645513,-0.7675417421922983,0.039451852150810374,"Environmental Partnerships, Renewable Energy Purchased, Policy Water Efficiency"
+Environment,LIME,1.0,0.0,0.0,43.42030429840088,220371,-0.056381707440776196,0.002985369816304373,Total Water Usage Properties
